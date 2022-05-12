@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "palacraft:paladium"
+    },
+    "1": {
+      "item": "palacraft:paladium"
+    },
+    "2": {
+      "item": "palacraft:paladium"
+    },
+    "3": {
+      "item": "palacraft:paladium"
+    },
+    "4": {
+      "item": "palacraft:paladium"
+    },
+    "5": {
+      "item": "palacraft:paladium"
+    },
+    "6": {
+      "item": "palacraft:paladium"
+    },
+    "7": {
+      "item": "palacraft:paladium"
+    },
+    "8": {
+      "item": "palacraft:paladium"
+    }
+  },
+  "result": {
+    "item": "palacraft:palablock",
+    "count": 1
+  }
+}
